@@ -35,6 +35,15 @@ body {
 .person__description{
     line-height: 22px;
     font-size: 16px;
+    margin:0;
+}
+
+.person__description__with-margin{
+margin-bottom: 22px;
+}
+
+.person__info {
+    margin-bottom: 24px;
 }
 
 .special{
